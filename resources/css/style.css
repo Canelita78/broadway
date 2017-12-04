@@ -1,0 +1,17 @@
+body {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+h1 {
+  font-size: 70px
+  font-weight: bold;
+  color: white;
+}
+.background {
+  background-image: url("../images/background.png") ;
+  }
+.info {
+  color: white;
+  font-size: 18px;
+}

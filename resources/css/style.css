@@ -19,13 +19,11 @@ h2 {
   font-size: 32px;
   font-weight: bold;
 }
-h3 {
+h3, .NY{
   font-size: 23px;
   font-weight: bold;
 }
 .NY {
-  font-size: 23px;
-  font-weight: bold;
   color: white;
 }
 .trade {
